@@ -32,4 +32,26 @@ after its approoved, we can merge and add it to main branch then, the branch is 
 
 pull is used to sync local and remote
 
+rebase, deletion of commit,  merge needs force push
+
+git rebase : rebase all the branch and syn master
+
+git reset done to reset the changes: git reset --hard (we do changes and want to revert)
+
+But, if we stage the file and want to revert:
+
+1) to unstage:
+
+git reset
+
+2) to remove changes from file:
+
+git reset --hard
+
+
+
+
+
+
+
 

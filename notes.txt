@@ -30,3 +30,6 @@ After review, we get sign for re check at right
 
 after its approoved, we can merge and add it to main branch then, the branch is deleted (all thouthg UI here)
 
+pull is used to sync local and remote
+
+

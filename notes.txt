@@ -16,4 +16,17 @@ For new task, we add a branch
  1880  git checkout Steps
  1881  git branch # gives list of branches with active in green 
 
- 
+Adding new files to branch
+
+ 1885  git status
+ 1886  git add notes.txt
+ 1887  git status
+ 1888  git commit -m "Learn through it"
+ 1889  git push origin Steps
+
+Now we can go to PR, creat request, assign assignie and reviewer.
+
+After review, we get sign for re check at right
+
+after its approoved, we can merge and add it to main branch then, the branch is deleted (all thouthg UI here)
+

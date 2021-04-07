@@ -1,0 +1,19 @@
+ 1866  git init
+ 1867* git remote add origin https://github.com/urvi3012/Git_Learn.gi
+ 1868  git status
+ 1869  git add .
+ 1870  git commit -m "initial commit"
+ 1871  git push origin main
+ 1872  git push origin master
+
+
+
+
+For new task, we add a branch
+
+ 1877  git checkout -b "Steps"  # make  branch and get into it
+ 1878  git checkout master   	# switch to the branch (here going into master)
+ 1880  git checkout Steps
+ 1881  git branch # gives list of branches with active in green 
+
+ 
